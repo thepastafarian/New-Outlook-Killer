@@ -11,7 +11,7 @@ Add the Shortcut to the Startup Folder:
   Drag and drop the shortcut you created earlier into the Startup folder.
   Now, every time you start your computer, NOK.exe will run automatically in the background.
 
-Verifying that NOK.exe Runs on Startup
+Verifying that NOK.exe Runs on Startup:
   Restart your computer to verify that the program runs on startup.
   After logging in, check the System Tray (the hidden icons area on your taskbar) to see if the NOK icon appears.
   You can also open Task Manager (Ctrl + Shift + Esc) and check under the Apps section to confirm that NOK.exe is running.
