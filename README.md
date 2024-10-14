@@ -1,4 +1,4 @@
-I reccomend adding a shortcut to the NOK.exe file to your startup folder so that it automatically runs when you start your computer. this is good incase windows decides to push an update.
+I reccomend adding a shortcut to the NOK.exe file to your startup folder so that it automatically runs when you start your computer. this is good in case windows decides to push an update.
 
 Create a Shortcut for NOK.exe:
   Navigate to the folder where NOK.exe is located.
